@@ -72,5 +72,3 @@ The goal of this project is to build a machine learning model that predicts **Cu
 
 ---
 
-### 👨‍💻 **Author:**  
-**Mohammed Saad Fazal**
